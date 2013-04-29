@@ -1,0 +1,4 @@
+CMAKE_MINIMUM_REQUIRED (VERSION 2.6)
+
+LIST (APPEND SDL_viewmanager_SRC
+	"SDL_viewmanager.c")
